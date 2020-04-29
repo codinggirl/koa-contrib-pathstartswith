@@ -1,0 +1,21 @@
+{
+  "name": "koa-contrib-pathstartswith",
+  "version": "1.0.0",
+  "description": "a koa middleware that call an user defined middleware when ctx.path starts with a prefix string, when string matched or path segments matched",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --collectCoverage"
+  },
+  "keywords": [],
+  "author": "Richard Libre",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.5.1"
+  },
+  "dependencies": {
+    "koa-contrib-pathsegmentsstartwith": "^1.0.0",
+    "koa-contrib-pathstringstartswith": "^1.0.0"
+  }
+}
