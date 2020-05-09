@@ -15,7 +15,15 @@
     "jest": "^25.5.1"
   },
   "dependencies": {
-    "koa-contrib-pathsegmentsstartwith": "^1.0.0",
-    "koa-contrib-pathstringstartswith": "^1.0.0"
-  }
+    "koa-contrib-pathsegmentsstartwith": "^1.0.1",
+    "koa-contrib-pathstringstartswith": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinggirl/koa-contrib-pathstartswith.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codinggirl/koa-contrib-pathstartswith/issues"
+  },
+  "homepage": "https://github.com/codinggirl/koa-contrib-pathstartswith#readme"
 }
