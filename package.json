@@ -11,12 +11,11 @@
   "author": "Richard Libre",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^25.2.1",
-    "jest": "^25.5.1"
+    "jest": "^26.4.2"
   },
   "dependencies": {
-    "koa-contrib-pathsegmentsstartwith": "^1.0.1",
-    "koa-contrib-pathstringstartswith": "^1.0.1"
+    "koa-contrib-pathsegmentsstartwith": "^1.0.2",
+    "koa-contrib-pathstringstartswith": "^1.0.2"
   },
   "repository": {
     "type": "git",
